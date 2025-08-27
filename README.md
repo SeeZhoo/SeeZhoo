@@ -24,10 +24,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lintanganwar&layout=compact&hide_border=true&theme=dark" alt="Top Languages">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lintanganwar&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>

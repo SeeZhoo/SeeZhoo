@@ -7,8 +7,6 @@
 
 - 🔭 Saya adalah siswa di **SMK Telkom Malang**.
 
-- 🌱 Saya sangat bersemangat tentang dunia teknologi, khususnya **Web Development & Network Engineering**.
-
 - 👨‍💻 Beberapa proyek yang pernah atau sedang saya kerjakan bisa dilihat di repositori saya.
 
 - 📝 Saya suka mencoba hal-hal baru dan terus belajar.

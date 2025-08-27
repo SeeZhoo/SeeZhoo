@@ -18,7 +18,7 @@
 <h3 align="left">Hubungi saya:</h3>
 <p align="left">
 <a href="https://www.instagram.com/lintangruok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="[Link Profil Discordmu]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@seezhoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 ---

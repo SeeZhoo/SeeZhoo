@@ -1,39 +1,44 @@
-Hi 👋, saya Lintang Albrian Anwar.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lintanganwar&label=Profile%20views&color=0e75b4&style=flat" alt="Profile views">
+</div>
 
-Tentang Saya
+# Halo 👋, saya Lintang Albrian Anwar
 
-Saya adalah siswa dari SMK Telkom Malang 🏫, sebuah sekolah kejuruan yang berfokus pada teknologi dan telekomunikasi. Saya memiliki minat besar dalam bidang IT, khususnya dalam pengembangan web dan jaringan.
+### Pelajar dari SMK Telkom Malang
 
-Di sekolah, saya sedang belajar:
+---
 
-    Pemrograman Web: HTML, CSS, JavaScript, PHP
+Saya adalah siswa di **SMK Telkom Malang** yang sangat bersemangat tentang dunia teknologi. Saat ini, saya fokus mendalami **Web Development** dan **Network Engineering**. Saya suka mengerjakan proyek-proyek baru dan terus belajar untuk meningkatkan skill saya.
 
-    Jaringan Komputer: Konfigurasi router dan switch, manajemen jaringan
+---
 
-    Sistem Operasi: Linux, Windows Server
+### Proyek yang Sedang Dikerjakan:
 
-Saya suka mencoba hal-hal baru dan terus belajar. Beberapa proyek yang pernah atau sedang saya kerjakan bisa dilihat di repositori GitHub saya ini.
+* **[Nama Proyek 1]**: Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
+* **[Nama Proyek 2]**: Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
+* **[Nama Proyek 3]**: Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
 
-Proyek Pilihan
+---
 
-    [Nama Proyek 1]: Deskripsi singkat proyek ini. Tuliskan apa yang dibuat dan teknologi yang digunakan.
-
-    [Nama Proyek 2]: Deskripsi singkat proyek ini. Tuliskan apa yang dibuat dan teknologi yang digunakan.
-
-    [Nama Proyek 3]: Deskripsi singkat proyek ini. Tuliskan apa yang dibuat dan teknologi yang digunakan.
-
-Kontak
-
-Jika ada pertanyaan atau ingin berkolaborasi, jangan ragu untuk menghubungi saya:
-
-    Email: [Email Anda]
-
-    LinkedIn: [Link Profil LinkedIn Anda]
-
-    Instagram: [Link Profil Instagram Anda]
+### Hubungi saya:
 
 <div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Link Profil LinkedInmu])
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([Link Profil Instagrammu])
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([Link Profil GitHubmu])
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Emailmu])
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=lintanganwar&label=Profile%20views&color=0e75b4&style=flat" alt="Profile views">
+---
 
+### Bahasa dan Tools yang Saya Kuasai:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,laravel,react,nodejs,vscode,git,github,linux,aws" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lintanganwar&layout=compact&hide_border=true&theme=dark" alt="Top Languages">
 </div>

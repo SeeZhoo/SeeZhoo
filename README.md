@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, saya Lintang Albrian Anwar</h1>
 <h3 align="center">Pelajar dari SMK Telkom Malang</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lintanganwar&label=Profile%20views&color=0e75b6&style=flat" alt="lintanganwar" /> </p>
+
 
 ---
 

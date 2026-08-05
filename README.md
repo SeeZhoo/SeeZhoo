@@ -11,6 +11,8 @@
 
 - 📫 Jika ingin berkolaborasi atau sekadar menyapa, Anda bisa menghubungi saya.
 
+- ☁️ Saya suka dibidang Cloud Computing
+
 ---
 
 <h3 align="left">Hubungi saya:</h3>
